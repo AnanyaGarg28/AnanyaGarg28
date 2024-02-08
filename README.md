@@ -1,6 +1,6 @@
 # Ananya Garg
 
-Hi there! I am Ananya Garg, an upcoming software engineer at Microsoft. I'm pursuing B.Tech in Software Engineering at Delhi Technological University(graduation in May 2024). Full-stack developer(prefer front-end work) with experience in MERN Stack(React.js, Node.js, Express.js, MongoDB), Typescript, MUI, TailwindCSS, SaSS, JavaScript, HTML/CSS, Python, Flask and C++.
+Hi there! I am Ananya Garg, pursuing B.Tech in Software Engineering at Delhi Technological University(graduation in May 2024). Full-stack developer(prefer front-end work) with experience in MERN Stack(React.js, Node.js, Express.js, MongoDB), Typescript, MUI, TailwindCSS, SaSS, JavaScript, HTML/CSS, Python, Flask and C++.
 
 What I've done during my college years:
 
@@ -17,7 +17,7 @@ I explored and learnt it through documentation, Linkedin Learning, and project-b
 
 To learn more about me see my [resume](https://drive.google.com/file/d/17g9S02zJg2_RAi_woXif3zxErEiUPcAJ/view?usp=sharing)
 
-- Summer of 2023, Joined Microsoft as a Software Engineering Intern at Microsoft. Worked to create a real-time data ingestion framework for Payments Data Platform. Used an entirely unfamiliar stack of technologies - PySpark, Databricks, Microsoft Azure, PowerBI. Completed the project end-to-end with data monitoring, logging, alerting ensuring data completeness, accuracy and general availability. This 8-week internship was successful as I recieved a PPO - full-time SWE Offer to join Microsoft in 2024(post graduation in May 2024).
+- Summer of 2023, Joined Microsoft as a Software Engineering Intern at Microsoft. Worked to create a real-time data ingestion framework for Payments Data Platform. Used an entirely unfamiliar stack of technologies - PySpark, Databricks, Microsoft Azure, PowerBI. Completed the project end-to-end with data monitoring, logging, alerting ensuring data completeness, accuracy and general availability. This 8-week internship was successful as I recieved a PPO - full-time SWE Offer to join Microsoft in 2024(post graduation in Aug 2024).
 
 - Fast forward to Jan 2024, bagged another Software Engineering(Full-Stack) Intern with BlokTrek(PrivateBlok). Currently working on extracting text/images from file formats(pdf, docs, ppts) using GPT4-vision, Textract, Python-Docx, Doc Intel, etc. while building the serverless infrastructure using AWS. The most exciting part - Getting to learn new things everyday! 🌟
 
